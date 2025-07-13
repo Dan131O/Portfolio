@@ -1,6 +1,6 @@
 # Welcome to my Portfolio!
 
-This portfolio contains a collection of coding projects that demonstrate a portion of my programming and data-related skills. 
+This portfolio contains a collection of coding projects that demonstrate a part of my broader programming and data-related expertise.
 
 The projects are listed below.
 
